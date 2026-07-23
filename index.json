@@ -110,12 +110,6 @@
       "api": "./py/黄色😍仓库.py"
     },
     {
-      "key": "gaokao",
-      "name": "三年高考五年模拟",
-      "type": 3,
-      "api": "./py/三年高考五年模拟.py"
-    },
-    {
       "key": "nnyy",
       "name": "🐬努努影院.py",
       "type": 3,
