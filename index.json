@@ -105,9 +105,15 @@
     },
     {
       "key": "huangde",
-      "name": "黄色😍仓库.py",
+      "name": "黄色😍仓库",
       "type": 3,
       "api": "./py/黄色😍仓库.py"
+    },
+    {
+      "key": "gaokao",
+      "name": "三年高考五年模拟",
+      "type": 3,
+      "api": "./py/三年高考五年模拟.py"
     },
     {
       "key": "nnyy",
