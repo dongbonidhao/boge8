@@ -104,6 +104,12 @@
       "api": "./py/%E7%93%9C%E5%AD%90APP.py"
     },
     {
+      "key": "huangde",
+      "name": "黄色😍仓库.py",
+      "type": 3,
+      "api": "./py/黄色😍仓库.py"
+    },
+    {
       "key": "nnyy",
       "name": "🐬努努影院.py",
       "type": 3,
